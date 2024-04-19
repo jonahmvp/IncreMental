@@ -1,0 +1,15 @@
+# Generally Ignored Files & Directories 
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3-journal 
+.env
+/venv/
+
+# IDE/Editor Files
+.vscode/
+.idea/
+
+# Static and Media Files (If handled differently)
+/static/
+/media/
